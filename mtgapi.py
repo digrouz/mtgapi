@@ -9,7 +9,6 @@ import hashlib
 mtgJsonUrl = 'https://mtgjson.com/json/AllSets-x.json.zip'
 dataDir = './data/'
 dataFile = 'AllSets-x.json'
-multiverseIdDict = {}
 
 application = Flask(__name__)
 
